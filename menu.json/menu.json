@@ -1,0 +1,80 @@
+{
+    "appetizers": [
+        {
+            "name": "Mozzarella Sticks",
+            "ingredients": ["mozzarella cheese", "panko breadcrumbs"],
+            "description": "Mozzerella cheese covered in panko breadcrumbs and lightly fried"
+        },
+
+        {
+            "name": "Loaded Cheese Fries",
+            "ingredients": ["french fries", "bacon bits", "cheddar cheese"],
+            "description": "French fries smothered in cheese and bacon."
+        }
+    ]
+},
+
+{
+    "cold sandwiches": [
+        {
+            "name": "Tuna Fish Sandwich",
+            "ingredients": ["italian bread", "tuna", "mayonaise", "celery", "onion", "lemon juice", "salt and pepper"],
+            "description": "Tuna fish mixed with mayo, celery, onion, lemon juice and salt and pepper on a fresh made italian roll."
+        },
+
+        {
+            "name": "Famous Italian Sub",
+            "ingredients": ["italian bread", "ham", "salami", "capicola", "lettuce", "tomatoes", "oregano"],
+            "description": "Ham, salami and capicola on a fresh made italian roll topped with lettuce, tomatoes and oregano."
+        }
+        
+    ]
+},
+
+{
+    "hot sandwiches": [
+        {
+            "name": "Mojo Pulled Pork Sandwich",
+            "ingredients": ["italian bread", "pork shoulder roast", "green chiles", "onion"],
+            "description": "Mojo marinated pork on a fresh made italian roll topped with green chiles and onions."
+        },
+
+        {
+            "name": "Philly Cheesesteak Sandwich",
+            "ingredients": ["italian bread", "beef chuck roast", "worcestershire sauce", "onions", "peppers", "American and provolone cheese"],
+            "description": "Chuck roast steak cooked with worcestershire sauce on a fresh made italian roll topped with onions, peppers and 2 types of cheese."
+        }
+    ]
+},
+
+{
+    "desserts": [
+        {
+            "name": "Chocolate Chip Cookie Ala Mode",
+            "ingredients": ["chocolate chip cookie", "vanilla ice cream", "whipped cream", "chocolate syrup"],
+            "description": "Big warm chocolate chip cookie topped with whipped cream and chocolate syrup."
+        },
+
+        {
+            "name": "Zeppoles",
+            "ingredients": ["zeppoles", "powdered sugar", "chocolate syrup"],
+            "description": "Warm fried dough topped with powdered sugar with a side of chocolate syrup."
+        }
+    ]
+}
+
+{
+    "drinks": [
+        {
+            "name": "Strawberry Banana Smoothie",
+            "ingredients": ["strawberries", "bananas", "blue berries", "orang juice", "honey"],
+            "description": "Pureed fresh fruit blended with ice."
+        },
+
+        {
+            "name": "Green Juice",
+            "ingredients": ["Kale", "cucumbers", "celery", "lemon", "ginger", "apples"],
+            "description": "Just the juice from a delicious combination of fruits and veggies."
+        }
+    ]
+}
