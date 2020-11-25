@@ -11,10 +11,8 @@
             "ingredients": ["french fries", "bacon bits", "cheddar cheese"],
             "description": "French fries smothered in cheese and bacon."
         }
-    ]
-},
+    ],
 
-{
     "cold sandwiches": [
         {
             "name": "Tuna Fish Sandwich",
@@ -28,10 +26,8 @@
             "description": "Ham, salami and capicola on a fresh made italian roll topped with lettuce, tomatoes and oregano."
         }
         
-    ]
-},
+    ],
 
-{
     "hot sandwiches": [
         {
             "name": "Mojo Pulled Pork Sandwich",
@@ -44,26 +40,8 @@
             "ingredients": ["italian bread", "beef chuck roast", "worcestershire sauce", "onions", "peppers", "American and provolone cheese"],
             "description": "Chuck roast steak cooked with worcestershire sauce on a fresh made italian roll topped with onions, peppers and 2 types of cheese."
         }
-    ]
-},
+    ],
 
-{
-    "desserts": [
-        {
-            "name": "Chocolate Chip Cookie Ala Mode",
-            "ingredients": ["chocolate chip cookie", "vanilla ice cream", "whipped cream", "chocolate syrup"],
-            "description": "Big warm chocolate chip cookie topped with whipped cream and chocolate syrup."
-        },
-
-        {
-            "name": "Zeppoles",
-            "ingredients": ["zeppoles", "powdered sugar", "chocolate syrup"],
-            "description": "Warm fried dough topped with powdered sugar with a side of chocolate syrup."
-        }
-    ]
-}
-
-{
     "drinks": [
         {
             "name": "Strawberry Banana Smoothie",
